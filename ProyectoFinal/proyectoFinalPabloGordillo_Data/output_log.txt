@@ -1,0 +1,61 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Pablo\Downloads\ProyectoFinal - copia\proyectoFinalPabloGordillo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Pablo\Downloads\ProyectoFinal - copia\proyectoFinalPabloGordillo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Pablo\Downloads\ProyectoFinal - copia\proyectoFinalPabloGordillo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Pablo\Downloads\ProyectoFinal - copia\proyectoFinalPabloGordillo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Pablo\Downloads\ProyectoFinal - copia\proyectoFinalPabloGordillo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Pablo\Downloads\ProyectoFinal - copia\proyectoFinalPabloGordillo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Pablo\Downloads\ProyectoFinal - copia\proyectoFinalPabloGordillo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Pablo\Downloads\ProyectoFinal - copia\proyectoFinalPabloGordillo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Pablo\Downloads\ProyectoFinal - copia\proyectoFinalPabloGordillo_Data\Managed\BehaviorBricks.dll (this message is harmless)
+Loading C:\Users\Pablo\Downloads\ProyectoFinal - copia\proyectoFinalPabloGordillo_Data\Managed\BehaviorBricks.dll into Unity Child Domain
+- Completed reload, in  0.070 seconds
+Platform assembly: C:\Users\Pablo\Downloads\ProyectoFinal - copia\proyectoFinalPabloGordillo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Pablo\Downloads\ProyectoFinal - copia\proyectoFinalPabloGordillo_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.051654 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: f6c -> priority: 1 
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.573931 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.231901 ms (FindLiveObjects: 0.024098 ms CreateObjectMapping: 0.015012 ms MarkObjects: 0.155259 ms  DeleteObjects: 0.015407 ms)
+
+Platform assembly: C:\Users\Pablo\Downloads\ProyectoFinal - copia\proyectoFinalPabloGordillo_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Users\Pablo\Downloads\ProyectoFinal - copia\proyectoFinalPabloGordillo_Data\Managed\System.Xml.dll (this message is harmless)
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.420345 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1309.
+Total: 0.880592 ms (FindLiveObjects: 0.071901 ms CreateObjectMapping: 0.027259 ms MarkObjects: 0.768000 ms  DeleteObjects: 0.013037 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.581432 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1310.
+Total: 0.950123 ms (FindLiveObjects: 0.058864 ms CreateObjectMapping: 0.019753 ms MarkObjects: 0.857679 ms  DeleteObjects: 0.013432 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.046913 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1401.
+Total: 1.030716 ms (FindLiveObjects: 0.080197 ms CreateObjectMapping: 0.020148 ms MarkObjects: 0.909432 ms  DeleteObjects: 0.020543 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.556742 ms
+
+Unloading 184 unused Assets to reduce memory usage. Loaded Objects now: 374.
+Total: 4.817779 ms (FindLiveObjects: 0.030814 ms CreateObjectMapping: 0.012641 ms MarkObjects: 0.629333 ms  DeleteObjects: 4.144594 ms)
+

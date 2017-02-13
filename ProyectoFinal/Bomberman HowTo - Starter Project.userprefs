@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\1Jugador\GlobalStateManager1.cs">
+    <Files>
+      <File FileName="Assets\Scripts\1Jugador\GlobalStateManager1.cs" Line="83" Column="30" />
+      <File FileName="Assets\Scripts\1Jugador\Destructible.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\1Jugador\Enemigo.cs" Line="1" Column="1" />
+      <File FileName="Assets\BehaviorBricks\Samples\ProgrammersQuickStartGuide\Done\DoneShootOnce.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\1Jugador\Bomb1Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\BehaviorBricks\MyActions\GetOwnPosition.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\1Jugador\Player1.cs" Line="185" Column="77" />
+      <File FileName="Assets\Scripts\Start2Players.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Start1Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AccionBoton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\2Jugadores\GlobalStateManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\2Jugadores\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Items.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
